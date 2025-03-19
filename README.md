@@ -1,7 +1,7 @@
 Hey, I'm Ananya G T 👋
 
 💻 Currently diving deep into Java at X-workz.
-📫 Reach me at: 
+📫 Reach me at: ananyathippeswamy7353@gmail.com
 
 
 🌟 Fun Fact About Me
