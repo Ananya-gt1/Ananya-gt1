@@ -9,5 +9,6 @@ Hey, I'm Ananya G T 👋
 I once spent more time fixing a single Java bug than I’d like to admit… but hey, persistence is key, right? 🛠
 
 ### 📊 GitHub Streaks  
-https://streak-stats.demolab.com/?user=Ananya-gt1&theme=dark&hide_border=true
+[![GitHub Streak](https://streak-stats.demolab.com/?user=Ananya-gt1&theme=dark&hide_border=true)](https://git.io/streak-stats)
+
 
